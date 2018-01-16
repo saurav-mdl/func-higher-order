@@ -1,4 +1,4 @@
-let repeat = require('./repeat');
+import repeat from './repeat';
 
 let counter = 0;
 function increment() { counter++; }
